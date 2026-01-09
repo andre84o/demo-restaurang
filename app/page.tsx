@@ -368,7 +368,7 @@ export default function Home() {
                   <span className="text-2xl">✉️</span>
                   <div>
                     <strong>E-post</strong>
-                    <p className="text-stone-600">info@guldochgront.se</p>
+                    <p className="text-stone-600">info@intenzze.com</p>
                   </div>
                 </li>
               </ul>
@@ -483,14 +483,15 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4">Följ Oss</h4>
               <div className="flex gap-4">
-                <a href="#" className="text-2xl hover:text-amber-500 transition-colors">📷</a>
-                <a href="#" className="text-2xl hover:text-amber-500 transition-colors">📘</a>
-                <a href="#" className="text-2xl hover:text-amber-500 transition-colors">🐦</a>
+                <a href="https://www.instagram.com/intenzzewebbstudio" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-amber-500 transition-colors">📷</a>
+                <a href="https://www.facebook.com/intenzzeweb" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-amber-500 transition-colors">📘</a>
+                <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="text-2xl hover:text-amber-500 transition-colors">𝕏</a>
               </div>
             </div>
           </div>
           <div className="border-t border-stone-700 mt-8 pt-8 text-center text-stone-500 text-sm">
             <p>&copy; 2024 Guld & Grönt. Alla rättigheter förbehållna.</p>
+            <p className="mt-2">Design & development by <a href="https://www.intenzze.com" target="_blank" rel="noopener noreferrer" className="text-amber-500 hover:text-amber-400 transition-colors">Intenzze</a></p>
           </div>
         </div>
       </footer>
